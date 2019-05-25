@@ -50,6 +50,10 @@
     font-size:38px;
     width:100%;
     text-align:center;
-    margin-bottom 7px;px;
-   
+    margin-bottom:7px;
+}
+
+#fourth_section
+{
+    background-image: url("../images/bg-cta.jpg");
 }
