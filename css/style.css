@@ -1,0 +1,15 @@
+.container
+{
+    width:65%;
+    margin:0 auto;
+}
+
+#first_section
+{
+    background: url(../images/bg-pattern.png),-webkit-gradient(linear,right top,left top,from(#7b4397),to(#dc2430));
+}
+
+
+#first_section section p{
+   font-size: 30px;
+}
