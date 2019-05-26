@@ -1,0 +1,27 @@
+#first_section
+{
+    background: url(../images/bg-pattern.png),-webkit-gradient(linear,right top,left top,from(#7b4397),to(#dc2430));
+}
+
+#first_section section p{
+   font-size: 30px;
+}
+
+.fas
+{
+
+    font-size:38px;  
+}
+
+#fourth_section
+{
+    background-image: url("../images/bg-cta.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fab
+{
+   font-size:18px;
+   width:50px;
+}
