@@ -1,27 +1,57 @@
-#first_section
-{
+body{
+    background:black;
+    font-family: 'Lato', sans-serif;
+}
+
+#first_section{
     background: url(../images/bg-pattern.png),-webkit-gradient(linear,right top,left top,from(#7b4397),to(#dc2430));
 }
 
 #first_section section p{
-   font-size: 30px;
+    font-size: 30px;
+ }
+ 
+ .fas{
+     font-size:38px;  
+ }
+ 
+#second_section{
+    background:#fdc844;
 }
 
-.fas
-{
-
-    font-size:38px;  
+#second_section h5{
+    font-size:52px;
 }
 
-#fourth_section
-{
+#third_section{
+    background:white;
+}
+
+#third_section>div>div p{
+    font-weight: bold;
+}
+
+#third_innerSection p:last-child{
+    color:grey;
+    text-shadow: 0px 0px 0px grey;
+}
+
+#fourth_section{
     background-image: url("../images/bg-cta.jpg");
-    background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    opacity:0.6;  
 }
 
-.fab
-{
-   font-size:18px;
-   width:50px;
+#fifth_section{
+    background: #fdc846;
+}
+
+.fab{
+   font-size:28px;
+   width:60px;
+}
+
+footer{
+    background:#222222;
 }
