@@ -11,16 +11,16 @@ body{
     font-size: 30px;
  }
  
- .fas{
-     font-size:38px;  
+.iconify{
+     font-size:68px;
+     color:#a53d69;  
+     display:block;
+     width:100%;
+     margin-bottom:10px;
  }
  
 #second_section{
-    background:#fdc844;
-}
-
-#second_section h5{
-    font-size:52px;
+    background:#fcc94a;
 }
 
 #third_section{
@@ -40,7 +40,7 @@ body{
     background-image: url("../images/bg-cta.jpg");
     background-size: cover;
     background-position: center;
-    opacity:0.6;  
+    opacity:0.8;
 }
 
 #fifth_section{
@@ -48,8 +48,8 @@ body{
 }
 
 .fab{
-   font-size:28px;
-   width:60px;
+    font-size:24px;
+    width:55px;
 }
 
 footer{
