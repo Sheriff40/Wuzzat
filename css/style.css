@@ -189,10 +189,18 @@ footer{
 }
 
 .navbar-toggler {
-    color:#5a5a5a;
+    
     background:white;
     font-size:14px;
+    text-align: right;
+}
+
+.navbar-toggler-image
+{
+    color:#5a5a5a;
+    padding:5px;
     border:1px solid #5a5a5a;
+  
 }
 
 #fifth_section>div{
