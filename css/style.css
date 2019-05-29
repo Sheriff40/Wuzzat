@@ -99,7 +99,7 @@ body{
 }
 
 .second-navbar{
-    display: none;
+    visibility: hidden;
 }
 
 
@@ -183,25 +183,21 @@ footer{
 }
 
 .second-navbar{
-    display: block;
+    visibility: visible;
+  
     background:white;
     margin-top:20px;
+    padding:0px 20px;
 }
 
 .navbar-toggler {
-    
     background:white;
     font-size:14px;
-    text-align: right;
+    color:#5a5a5a;
+    border:1px solid #5a5a5a;
+   
 }
 
-.navbar-toggler-image
-{
-    color:#5a5a5a;
-    padding:5px;
-    border:1px solid #5a5a5a;
-  
-}
 
 #fifth_section>div{
     padding:150px 0px;
